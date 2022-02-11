@@ -48,7 +48,7 @@ global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '©shiro akio' //change the watermark 
-global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
+global.image = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fab%2Fee%2F46%2Fabee4623346cbf016b3cda64bee000d5.jpg&imgrefurl=https%3A%2F%2Fid.pinterest.com%2Fpin%2F743797694704745797%2F&tbnid=TEB_JRZnwqTmpM&vet=1&docid=u7HiBbmFjbZshM&w=720&h=720&source=sh%2Fx%2Fim' //change the image
 global.thumbfoto = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'
 
 // image
