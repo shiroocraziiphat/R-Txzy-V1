@@ -47,9 +47,9 @@ global.author = 'LoppYuuu<3'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©shiro akio' //change the watermark 
-global.image = 'https://i.pinimg.com/736x/ab/ee/46/abee4623346cbf016b3cda64bee000d5.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'
+global.watermark = '©shiro botz' //change the watermark 
+global.image = 'https://i.pinimg.com/originals/05/38/5f/05385f9d07829fa2492677a00655b384.jpg' //change the image
+global.thumbfoto = 'https://i.pinimg.com/originals/b3/17/cf/b317cf5a78221dc8fe4df9fbe2d4bc51.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
